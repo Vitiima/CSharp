@@ -1,0 +1,6 @@
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\bin\Debug\CSharp_1.exe
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\bin\Debug\CSharp_1.pdb
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\obj\Debug\CSharp-1.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\obj\Debug\CSharp-1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\obj\Debug\CSharp_1.exe
+C:\Users\Aluno\Documents\GitHub\C#-Fund\Tech-Guide\CSharp-1\obj\Debug\CSharp_1.pdb
